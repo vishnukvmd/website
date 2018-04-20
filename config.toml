@@ -2,7 +2,7 @@
 baseURL = "https://vishnu.tech/"
 languageCode = "en-US"
 title = "Vishnu Mohandas"
-theme = "hugo-split-theme"
+theme = "hugo-split"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
 # Enter your tracking code to enable Google Analytics
