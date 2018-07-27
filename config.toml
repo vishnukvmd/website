@@ -4,6 +4,9 @@ languageCode = "en-US"
 title = "Vishnu Mohandas"
 theme = "hugo-split"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+[blackfriday]
+   plainIDAnchors = true
+   hrefTargetBlank = true
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-118702537-1"
@@ -46,7 +49,7 @@ googleAnalytics = "UA-118702537-1"
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "mailto:me@vishnu.tech"
+        url = "mailto:mail@vishnu.tech"
 
       [[params.links.list1.link]]
         text = "LinkedIn"
