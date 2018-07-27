@@ -71,10 +71,14 @@ googleAnalytics = "UA-118702537-1"
       heading = "Other"
 
       [[params.links.list3.link]]
+        text = "Resume"
+        url = "./resume"
+
+      [[params.links.list3.link]]
         text = "GitHub"
         url = "https://github.com/vishnukvmd"
 
-	  [[params.links.list3.link]]
+	    [[params.links.list3.link]]
         text = "SoundCloud"
         url = "https://soundcloud.com/vishnukvmd"
 
