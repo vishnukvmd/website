@@ -29,7 +29,7 @@ googleAnalytics = "UA-118702537-1"
   [params.content]
     name = "Vishnu Mohandas"
     tagline = "Hacker. Musician. Product Guy."
-    bio = "Born and brought up in [Kerala, India](https://www.google.co.in/search?q=kerala&tbm=isch).<br>Primarily a programmer, and self taught (/proclaimed) product manager. Spent the last 5 years building [Ringo](https://ringo.co), [Zeta](https://zeta.in) and [Kapow](https://kapow.games) at [Directi](https://www.directi.com).<br>Hobbies include fiddling with the violin, lurking on reddit and HN.<br>Influenced by Nick Bostrom's philosophies and Bo Burnham's comedy.<br>Currently figuring out life at [Adliswil, Switzerland](https://www.google.co.in/search?q=adliswil&tbm=isch)."
+    bio = "Born and brought up in [Kerala, India](https://www.google.co.in/search?q=kerala&tbm=isch).<br>Primarily a programmer, and self taught (/proclaimed) product manager. Spent the last decade building [Assistant](https://assistant.google.com) at [Google](https://google.com), [Ringo](https://ringo.co), [Zeta](https://zeta.in) and [Kapow](https://kapow.games) at [Directi](https://www.directi.com).<br>Hobbies include fiddling with the violin, lurking on reddit and HN.<br>Influenced by Nick Bostrom's philosophies and Bo Burnham's comedy.<br>Currently figuring out life at [Haarlem, Netherlands](https://www.google.co.in/search?q=haarlem&tbm=isch)."
 
   # Section - Visual
   [params.visual]
